@@ -5,7 +5,7 @@ This project analyzes Global Superstore sales data across regions, products, cus
 
 ## Project Overview
 - **Python:** data preparation and Exploratory Data Analysis (EDA)
-- **MySQL:** SQL-based business analysis
+- **SQL:** SQL-based business analysis
 - **Microsoft Excel:** analysis, PivotTables, KPI summaries, and dashboard creation
 - **Power BI:** data modeling, DAX measures, interactive reporting, and cross-page filtering
 - **Git & GitHub:** version control and project sharing
@@ -258,5 +258,5 @@ The current dataset does not contain Profit, Quantity, Discount, or Shipping Cos
 ---
 **Project:** Sales Data Analysis & Business Insights  
 **Dataset:** Global Superstore  
-**Tools:** Python | MySQL | Excel | Power BI  
+**Tools:** Python | SQL | Excel | Power BI  
 **Focus:** Data Analytics | EDA | SQL | Dashboarding | Business Insights
